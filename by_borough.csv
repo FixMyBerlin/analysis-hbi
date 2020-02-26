@@ -1,14 +1,14 @@
 Bezirk,Planungsabschnitte,Länge (km),HBI (gewichteter Durchschnitt)
-,2,0.16,7.80
-Charlottenburg-Wilmersdorf,499,255.36,5.75
-Friedrichshain-Kreuzberg,241,132.30,5.29
-Lichtenberg,321,174.16,5.79
-Marzahn-Hellersdorf,373,230.79,5.64
-Mitte,638,242.69,5.25
-Neukölln,224,153.05,6.18
-Pankow,534,343.69,5.31
-Reinickendorf,361,247.69,5.91
-Spandau,300,237.47,6.42
-Steglitz-Zehlendorf,456,284.72,6.22
-Tempelhof-Schöneberg,414,219.50,5.37
-Treptow-Köpenick,471,358.75,5.55
+,1,0.16,7.80
+Charlottenburg-Wilmersdorf,259,255.36,5.75
+Friedrichshain-Kreuzberg,124,132.30,5.29
+Lichtenberg,165,174.16,5.79
+Marzahn-Hellersdorf,190,230.79,5.64
+Mitte,329,242.69,5.25
+Neukölln,112,153.05,6.18
+Pankow,276,343.69,5.31
+Reinickendorf,184,247.69,5.91
+Spandau,153,237.47,6.42
+Steglitz-Zehlendorf,234,284.72,6.22
+Tempelhof-Schöneberg,215,219.50,5.37
+Treptow-Köpenick,241,358.75,5.55
